@@ -1,12 +1,12 @@
  // Reasons database
  const reasons = [
     { 
-        text: "HAPPY BIRTHDAY TO YOU MITARRRRRR MANY MANY HAPPY RETURNS OF THE DAY AJJ TUMHARA BIRTHDAY HAI MERI TARAF SE AA CHOTA SA SURPRISE I HOPE TUMHE ACCHA LAGEGA. 💖", 
+        text: "HAPPY BIRTHDAY TO YOU MITARRRRRR Many Many Happy Returns Of The Day Ajka Din Tumhara Hai So Tumhare Liye Meri Taraf Se Aa Chota Sa Surprise I Hope Tumhe Accha Lagega. 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "Aaj ka din normal nahi hai…Kyunki aaj duniya ki sabse special pagal ka birthday hai meri pyaari mitarrrrrrrrrrrrrr ka birthday hai ajjjj😌🎂. 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
