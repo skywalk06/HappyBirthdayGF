@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "HAPPY BIRTHDAY TO YOU MITARRRRRR MANY MANY HAPPY RETURNS OF THE DAY AJJ TUMHARA BIRTHDAY HAI MERI TARAF SE AA CHOTA SA SURPRISE I HOPE TUMHE ACCHA LAGEGA. 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
