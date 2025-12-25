@@ -11,12 +11,12 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "kabhi socha nhi tha mai tumse milunga bhi or sochabhi nahi tha ki tum meri life ka itna important hissa ban jaogi…par ban gayi 🤍. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "Or isse jada nhi boluga bor ho rehe hoge 🫣🫣 jindegi mai or bade ho.Or jiban mai tumhe jo chahiye wo sab mile, hamesa khus raho or thoda padhai pe bhi dhayan do.🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
